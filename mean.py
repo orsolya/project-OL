@@ -1,4 +1,4 @@
-#olyonsa
+#orsholya ... I came especially to fix your amazing name
 
 Print the mean of the data.txt
 import sys
