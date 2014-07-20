@@ -1,3 +1,5 @@
+#olyonsa
+
 Print the mean of the data.txt
 import sys
 
