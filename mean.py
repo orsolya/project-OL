@@ -1,6 +1,7 @@
+#you are so concentrated in coding, its funny
 #orsholya ... I came especially to fix your amazing name
 
-Print the mean of the data.txt
+#Print the mean of the data.txt
 import sys
 
 summation=0
