@@ -1,11 +1,12 @@
+Print the mean of the data.txt
 import sys
 
-sum=0
+summation=0
 n=0
 
 #Sum input values
-for num in open('data.txt'):
-	sum += float(num)
+for number in open('data.txt'):
+	summation += float(number)
 	n += 1
 
 print sum / n
